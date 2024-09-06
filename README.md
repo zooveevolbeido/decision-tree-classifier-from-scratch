@@ -1,1 +1,1 @@
-this is decision tree classifier from scratch 
+決定木(分類)を既存のライブラリを使わず作成しました。
